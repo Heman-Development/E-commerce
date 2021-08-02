@@ -32,6 +32,7 @@ function App() {
           <Header />
           <AnimatePresence>
             <Switch>
+              <Route path="/e-commerce/" exact component={Home} />
               <Route path="/" exact component={Home} />
               <Route path="/home" exact component={Home} />
               <Route path="/cart/" exact component={Cart} />

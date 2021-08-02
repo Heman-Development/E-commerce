@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.73e71cf1.chunk.css",
+    "main.js": "/e-commerce/static/js/main.98868a38.chunk.js",
+    "main.js.map": "/e-commerce/static/js/main.98868a38.chunk.js.map",
+    "runtime-main.js": "/e-commerce/static/js/runtime-main.7a4d41dd.js",
+    "runtime-main.js.map": "/e-commerce/static/js/runtime-main.7a4d41dd.js.map",
+    "static/css/2.b57b7cfd.chunk.css": "/e-commerce/static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.ea315e1c.chunk.js": "/e-commerce/static/js/2.ea315e1c.chunk.js",
+    "static/js/2.ea315e1c.chunk.js.map": "/e-commerce/static/js/2.ea315e1c.chunk.js.map",
+    "index.html": "/e-commerce/index.html",
+    "static/css/2.b57b7cfd.chunk.css.map": "/e-commerce/static/css/2.b57b7cfd.chunk.css.map",
+    "static/css/main.73e71cf1.chunk.css.map": "/e-commerce/static/css/main.73e71cf1.chunk.css.map",
+    "static/js/2.ea315e1c.chunk.js.LICENSE.txt": "/e-commerce/static/js/2.ea315e1c.chunk.js.LICENSE.txt",
+    "static/media/Contact.scss": "/e-commerce/static/media/287-2870487_email-marketing-png-transparent-png-removebg-preview.1966e414.png",
+    "static/media/Spinner-3.7133f345.gif": "/e-commerce/static/media/Spinner-3.7133f345.gif",
+    "static/media/TrendingProductComponent.scss": "/e-commerce/static/media/dark-gray-background1.c35c871d.jpg",
+    "static/media/DealsComponent.scss": "/e-commerce/static/media/deal2.8a1a6171.png",
+    "static/media/Vouchers.scss": "/e-commerce/static/media/gift-voucher.2f2e1b44.png",
+    "static/media/Reviews.scss": "/e-commerce/static/media/gray-background.75b5d377.jpg",
+    "static/media/Trending.scss": "/e-commerce/static/media/gray-background1.21e72361.jpg",
+    "static/media/HeroSlider.scss": "/e-commerce/static/media/imageSlider3.5519d474.png",
+    "static/media/lock-icon.773123e2.png": "/e-commerce/static/media/lock-icon.773123e2.png",
+    "static/media/logo-arhera.b4548ca1.jpg": "/e-commerce/static/media/logo-arhera.b4548ca1.jpg",
+    "static/media/paypal.007610a0.png": "/e-commerce/static/media/paypal.007610a0.png",
+    "static/media/phone-icon.209f85be.png": "/e-commerce/static/media/phone-icon.209f85be.png",
+    "static/media/return-box-icon.fd56a2dc.png": "/e-commerce/static/media/return-box-icon.fd56a2dc.png",
+    "static/media/search-icon.9a179a79.png": "/e-commerce/static/media/search-icon.9a179a79.png",
+    "static/media/truck-icon.ac4ed7e9.png": "/e-commerce/static/media/truck-icon.ac4ed7e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a4d41dd.js",
+    "static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.ea315e1c.chunk.js",
+    "static/css/main.73e71cf1.chunk.css",
+    "static/js/main.98868a38.chunk.js"
+  ]
+}
